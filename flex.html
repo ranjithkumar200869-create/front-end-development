@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Responsive Flexbox Layout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;   /* Makes it responsive */
+        }
+
+        .box {
+            flex: 1 1 30%;     /* 3 columns */
+            margin: 10px;
+            padding: 20px;
+            background-color: rgb(248, 5, 175);
+            text-align: center;
+            font-size: 18px;
+            border-radius: 10px;
+        }
+
+        /* Responsive for mobile */
+        @media (max-width: 768px) {
+            .box {
+                flex: 1 1 100%;   /* 1 column */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align:center;">Responsive Flexbox Layout</h2>
+
+    <div class="container">
+        <div class="box">Column 1</div>
+        <div class="box">Column 2</div>
+        <div class="box">Column 3</div>
+        <div class="box">Column 4</div>
+        <div class="box">Column 5</div>
+        <div class="box">Column 6</div>
+    </div>
+
+</body>
+</html>
