@@ -7,3 +7,4 @@ demo link for flex box :https://github.com/ranjithkumar200869-create/front-end-d
 demo link for notice board:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/notice%20board.html
 demo link for navigation bar:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/navigationbar.html
 demo link for form:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/form.html
+demo link for loginpage:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/loginpage.html
