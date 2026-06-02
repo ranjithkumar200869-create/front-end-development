@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Events Example</title>
+
+    <script>
+        function showMessage() {
+            alert("Button Clicked!");
+        }
+
+        function changeText() {
+            document.getElementById("demo").innerHTML =
+                "Mouse is over the text!";
+        }
+
+        function displayValue() {
+            let value = document.getElementById("name").value;
+            document.getElementById("result").innerHTML =
+                "You entered: " + value;
+        }
+    </script>
+</head>
+<body>
+
+    <h2>HTML Events Demo</h2>
+
+    <!-- Click Event -->
+    <button onclick="showMessage()">Click Me</button>
+
+    <br><br>
+
+    <!-- Mouse Over Event -->
+    <p id="demo" onmouseover="changeText()">
+        Move the mouse over this text.
+    </p>
+
+    <br>
+
+    <!-- Change Event -->
+    <label>Enter Your Name:</label>
+    <input type="text" id="name" onchange="displayValue()">
+
+    <p id="result"></p>
+
+</body>
+</html>
