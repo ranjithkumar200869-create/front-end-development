@@ -11,4 +11,4 @@ demo link for loginpage:https://github.com/ranjithkumar200869-create/front-end-d
 demo link for to do list:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/to%20do%20list.html
 demo link for calculator:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/calculator.html
 demo link for digital clock:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/digital%20clock.html
-demo link for webside:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/webside.html
+demo link for responsive webpage:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/webside.html
