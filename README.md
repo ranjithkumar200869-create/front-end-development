@@ -14,3 +14,4 @@ demo link for digital clock:https://github.com/ranjithkumar200869-create/front-e
 demo link for responsive webpage:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/webside.html
 demo link for website:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/web.html
 demo link for image slider:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/image%20sl.html
+demo link for event:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/event.html
