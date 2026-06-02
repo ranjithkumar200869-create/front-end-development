@@ -13,4 +13,4 @@ demo link for calculator:https://github.com/ranjithkumar200869-create/front-end-
 demo link for digital clock:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/digital%20clock.html
 demo link for responsive webpage:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/webside.html
 demo link for website:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/web.html
-demo link for image slider:
+demo link for image slider:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/image%20sl.html
