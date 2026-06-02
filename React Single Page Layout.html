@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Single Page Layout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        header {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+
+        nav {
+            background: #555;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+        }
+
+        section {
+            padding: 20px;
+            display: none;
+        }
+
+        #home {
+            display: block;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>My Single Page Website</h1>
+</header>
+
+<nav>
+    <a href="#" onclick="showPage('home')">Home</a>
+    <a href="#" onclick="showPage('about')">About</a>
+    <a href="#" onclick="showPage('contact')">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Home</h2>
+    <p>Welcome to the Home Page.</p>
+</section>
+
+<section id="about">
+    <h2>About</h2>
+    <p>This is the About Page.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: example@email.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Single Page Layout</p>
+</footer>
+
+<script>
+function showPage(pageId) {
+    let sections = document.querySelectorAll("section");
+
+    sections.forEach(section => {
+        section.style.display = "none";
+    });
+
+    document.getElementById(pageId).style.display = "block";
+}
+</script>
+
+</body>
+</html>
