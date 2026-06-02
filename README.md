@@ -12,3 +12,4 @@ demo link for to do list:https://github.com/ranjithkumar200869-create/front-end-
 demo link for calculator:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/calculator.html
 demo link for digital clock:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/digital%20clock.html
 demo link for responsive webpage:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/webside.html
+demo link for website:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/web.html
