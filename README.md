@@ -19,5 +19,5 @@ demo link for React app with components and
 state management :https://github.com/ranjithkumar200869-create/front-end-development/blob/main/React%20app%20with%20components%20and%20state%20management.html
 demo link for bootstrap:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/bootstrap.html
 demo link for react single page layout:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/React%20Single%20Page%20Layout.htm
-demo link for Icons using Font Awesome:
+demo link for Icons using Font Awesome:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/Icons%20using%20Font%20Awesome.html
 
