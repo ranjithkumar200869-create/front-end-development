@@ -21,3 +21,4 @@ demo link for bootstrap:https://github.com/ranjithkumar200869-create/front-end-d
 demo link for react single page layout:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/React%20Single%20Page%20Layout.htm
 demo link for Icons using Font Awesome:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/Icons%20using%20Font%20Awesome.html
 demo link for coffee shop:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/coffee%20shop.html
+demo link for collage web:https://github.com/ranjithkumar200869-create/front-end-development/blob/main/collage.html
